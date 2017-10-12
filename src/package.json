@@ -1,0 +1,29 @@
+{
+  "name": "chartsangular2",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcastillol/ChartsAngular2"
+  },
+  "author": {
+    "name": "Dani",
+    "email": "dcastillol@outlook.es"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcastillol/ChartsAngular2/issues"
+  },
+  "main": "chartsangular2.umd.js",
+  "module": "chartsangular2.js",
+  "jsnext:main": "chartsangular2.js",
+  "typings": "chartsangular2.d.ts",
+  "peerDependencies": {
+    "chart.js": "2.7.0",
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
